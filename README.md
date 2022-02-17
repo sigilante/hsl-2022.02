@@ -1,7 +1,7 @@
 #   Hoon School Live
 
-Instructor:  ~lagrev-nocfep
-TAs:  ~tinnus-napbus, ~dombal, ~hodzod-walrus, ~wicrum-wicrun
+- Instructor:  ~lagrev-nocfep
+- TAs:  ~tinnus-napbus, ~dombal, ~hodzod-walrus, ~wicrum-wicrun
 
 _Participation instructions will be sent to you via email._
 
